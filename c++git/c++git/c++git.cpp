@@ -18,6 +18,14 @@ int num1 , num2 , result    ;
     {
         result = num1 - num2;
     }
+    else if (op == '*')
+    {
+        result = num1 * num2;
+    }
+    else if (op == '/')
+    {
+        result = num1 / num2;
+    }
     else
     {
         cout << "cant do that operation /n";
