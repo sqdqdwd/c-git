@@ -1,4 +1,4 @@
-
+﻿
 #include <iostream>
 using namespace std;
 int main()
@@ -7,4 +7,5 @@ int main()
     cout << "Hello World sir \n";
     cin >> x;
     cout << "your number is " << x;
+    cout << "يا نووب يا كريم";
 }
