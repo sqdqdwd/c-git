@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-int num1 , num2 , result    ;
+int num1 , num2 , result  , x  ;
     char op;
     cout << "heloo enter  number1 \n";
     cin >> num1;
@@ -30,5 +30,9 @@ int num1 , num2 , result    ;
     {
         cout << "cant do that operation /n";
     }
-    cout << "the reult = "<< result;
+    cout << "the reult = "<< result<<endl ;
+      cout << "rate the app from 1to 10" << endl;
+    cin >> x;
+    cout << "thanks :-)" << endl;
+    
 }
