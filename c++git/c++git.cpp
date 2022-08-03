@@ -32,5 +32,6 @@ int main()
         cout << "cant do that operation /n";
     }
     cout << "the reult = "<< result ;
+    cout << "mohamed made  changes";
     
 }
