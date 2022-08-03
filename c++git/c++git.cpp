@@ -34,4 +34,6 @@ int main()
     cout << "the reult = "<< result ;
     cout << "mohamed made  changes";
     cout << "*********************";
+    cout << "karim made  changes";
+    cout << "++++++++++++++++++++";
 }
