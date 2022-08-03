@@ -1,10 +1,2 @@
 ﻿  c++git.cpp
-E:\work\New folder\c++git\c++git\c++git.cpp(10,13): warning C4566: character represented by universal-character-name '\u064A' cannot be represented in the current code page (1252)
-E:\work\New folder\c++git\c++git\c++git.cpp(10,13): warning C4566: character represented by universal-character-name '\u0627' cannot be represented in the current code page (1252)
-E:\work\New folder\c++git\c++git\c++git.cpp(10,13): warning C4566: character represented by universal-character-name '\u0646' cannot be represented in the current code page (1252)
-E:\work\New folder\c++git\c++git\c++git.cpp(10,13): warning C4566: character represented by universal-character-name '\u0648' cannot be represented in the current code page (1252)
-E:\work\New folder\c++git\c++git\c++git.cpp(10,13): warning C4566: character represented by universal-character-name '\u0628' cannot be represented in the current code page (1252)
-E:\work\New folder\c++git\c++git\c++git.cpp(10,13): warning C4566: character represented by universal-character-name '\u0643' cannot be represented in the current code page (1252)
-E:\work\New folder\c++git\c++git\c++git.cpp(10,13): warning C4566: character represented by universal-character-name '\u0631' cannot be represented in the current code page (1252)
-E:\work\New folder\c++git\c++git\c++git.cpp(10,13): warning C4566: character represented by universal-character-name '\u0645' cannot be represented in the current code page (1252)
   c++git.vcxproj -> E:\work\New folder\c++git\x64\Debug\c++git.exe
